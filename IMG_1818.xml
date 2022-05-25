@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-sd-name</folder>
+	<filename>IMG_1818.jpg</filename>
+	<path>/my-sd-name/IMG_1818.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Mechero</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>1017</xmin>
+			<ymin>1320</ymin>
+			<xmax>2115</xmax>
+			<ymax>2501</ymax>
+		</bndbox>
+	</object>
+</annotation>
